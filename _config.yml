@@ -16,13 +16,12 @@ minimal_mistakes_skin    : "dirt" #"default".  "air", "aqua", "contrast", "dark"
 
 # Site Settings
 locale                   : "en-AU"
-title                    : "Makoto Suwama"
+title                    : "Komal Agrawal"
 title_separator          : "&bull;"
-name                     : "Makoto Suwama"
-description              : "Website of math graduate student Makoto Suwama."
+name                     : "Komal Agrawal"
+description              : "Website of math graduate student Komal Agrawal."
 url                      : "https://msuwama.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "msuwama/msuwama.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -100,11 +99,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Makoto Suwama"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "Komal Agrawal"
+  avatar           : "/assets/images/KomalPhoto.jpg"
   bio              : "I am a math graduate student at the University of Georgia."
   location         : 
-  email            : "makoto.suwama@uga.edu"
+  email            : "kpa43240@uga.edu"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -113,7 +112,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "msuwama"
+  github           :
   gitlab           :
   google_plus      :
   keybase          :
@@ -132,7 +131,7 @@ author:
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
   affiliation      : "University of Georgia"
   affiliationurl   : "http://www.math.uga.edu/"
-  worklocation     : "Boyd 434H"
+  worklocation     : "Boyd 434J"
   workmap          : "https://goo.gl/pioTxT"
 
 # Reading Files

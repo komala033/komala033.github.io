@@ -2,13 +2,11 @@
 layout: single
 title: Research
 ---
-I am interested in algebraic geometry and number theory.
+I am still figuring out my specific research interests but I would definitely want to work in the AGANT group here at UGA.
 
-## Talks
-1. *Fundamental Groups and Galois Groups*  
-    Graduate Student Seminar  
+
+## Talk
+1. *Collatz Conjecture and its Polynomial Analogue*
+    Graduate Student Summer Conference
 	University of Georgia, Athens, GA, April 2018
-	
-2. *Computing Rational Points on Elliptic Curves*  
-	Graduate Student Summer Conference  
-	University of Georgia, Athens, GA, July 2017
+
