@@ -1,0 +1,16 @@
+{% if author.affiliation %}
+<li>
+  <a href="{{ author.affiliationurl}}">
+    <meta itemprop="affiliation" content="{{ author.affiliation }}" />
+    <i class="fas fa-fw fa-university" aria-hidden="true"></i>  {{ author.affiliation }}
+  </a>
+</li>
+{% endif %}
+{% if author.worklocation %}
+<li>
+  <a href="{{ author.workmap}}">
+    <meta itemprop="workLocation" content="{{ author.worklocation }}" />
+    <i class="fas fa-fw fa-building" aria-hidden="true"></i>  {{ author.worklocation }}
+  </a>
+</li>
+{% endif %}
