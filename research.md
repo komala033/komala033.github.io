@@ -2,8 +2,7 @@
 layout: single
 title: Research
 ---
-I am still figuring out my specific research interests but I would definitely want to work in the AGANT group here at UGA.
-
+I am interested in Analytic Number Theory.
 
 ## Talk
 1. *Collatz Conjecture and its Polynomial Analogue*  
