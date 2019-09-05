@@ -20,7 +20,7 @@ title                    : "Komal Agrawal"
 title_separator          : "&bull;"
 name                     : "Komal Agrawal"
 description              : "Website of math graduate student Komal Agrawal."
-url                      : "https://komal.033.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://komalagrawal033.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  :  /project-name # the subpath of your site, e.g. "/blog"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
