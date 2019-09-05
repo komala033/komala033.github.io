@@ -10,4 +10,4 @@ I am interested in Analytic Number Theory. My advisor is Paul Pollack.
 	University of Georgia, Athens, GA, July 2018
 2. *Orders of Arithmetic Functions*  
 	Graduate Student Seminar	
-	University of Georgia, Athens, GA, April 2019
+		University of Georgia, Athens, GA, April 2019
