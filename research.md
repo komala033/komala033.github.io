@@ -2,7 +2,7 @@
 layout: single
 title: Research
 ---
-I am interested in Analytic Number Theory.
+I am interested in Analytic Number Theory. My advisor is Paul Pollack. 
 
 ## Talk
 1. *Collatz Conjecture and its Polynomial Analogue*  
