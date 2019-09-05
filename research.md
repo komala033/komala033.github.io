@@ -4,7 +4,7 @@ title: Research
 ---
 I am interested in Analytic Number Theory. My advisor is Paul Pollack. 
 
-## Talk
+## Talks
 1. *Orders of Arithmetic Functions*  
 	Graduate Student Seminar <br/>
 		University of Georgia, Athens, GA, April 2019
