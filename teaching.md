@@ -2,8 +2,8 @@
 layout: single
 title: Teaching
 ---
-I am currently teaching MATH 2250 Calculus I for Science and Eng. (in Fall 2019) .  
-In the past, I have taught MATH 1113 Precalculus (Fall 2018 and Spring 2019). 
+I will be teaching MATH 1113 Precalculus in Fall 2020. 
+In the past, I have taught MATH 1113 Precalculus and MATH 2250 Calculus I for Science and Engineering. 
 My classroom is flipped and I also like to employ various active learning techniques while teaching. 
 
 
