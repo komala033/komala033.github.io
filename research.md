@@ -2,7 +2,7 @@
 layout: single
 title: Research
 ---
-I am interested in Analytic Number Theory. Particularly, I have worked on multiplicative order of elements modulo prime p (relating to Artin's Primitve Root Conjecture). You can find a submitted paper here. <br/>
+I am interested in Analytic Number Theory. Particularly, I have worked on multiplicative order of elements modulo prime p (relating to Artin's Primitve Root Conjecture). You can find a submitted paper <a href="https://arxiv.org/abs/2006.15200" target="_blank">here.</a> <br/>
 My advisor is Paul Pollack. 
 
 
