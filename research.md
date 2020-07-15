@@ -2,9 +2,13 @@
 layout: single
 title: Research
 ---
-I am interested in Analytic Number Theory. Particularly, I have worked on multiplicative order of elements modulo prime p (relating to Artin's Primitve Root Conjecture). You can find a submitted paper <a href="https://arxiv.org/abs/2006.15200" target="_blank">here.</a> <br/>
+I am interested in Analytic Number Theory. Particularly, I have worked on multiplicative order of elements modulo prime p (relating to Artin's Primitve Root Conjecture). <br/>
 My advisor is Paul Pollack. 
 
+
+## Publications 
+1. *Finite sets containing near-primitive roots* (w/ P. Pollack) <br/>
+   <a href="https://arxiv.org/abs/2006.15200" target="_blank">Submitted</a>
 
 ## Talks
 1. *On the distribution of pseudoprimes and Carmichael Numbers*  
