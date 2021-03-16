@@ -8,7 +8,7 @@ My advisor is Paul Pollack.
 
 ## Publications 
 1. *Finite sets containing near-primitive roots* (w/ P. Pollack) <br/>
-   <a href="https://arxiv.org/abs/2006.15200" target="_blank">Submitted</a>
+   <a href="https://arxiv.org/abs/2006.15200" target="_blank">J. Number Theory (to appear)</a>
 
 ## Talks
 1. *On the distribution of pseudoprimes and Carmichael Numbers*  
