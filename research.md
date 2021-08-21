@@ -11,7 +11,7 @@ My advisor is Paul Pollack.
    <a href="https://arxiv.org/abs/2006.15200" target="_blank">J. Number Theory 225 (2021), 360--373</a>
 
 ## Talks
-1. *An Intorduction to the Erdős Multiplication Table Problem *  
+1. *An Intorduction to the Erdős Multiplication Table Problem*  
     Graduate Student Summer Conference  <br/>
 	University of Georgia, Athens, GA, August 2021
 2. *Guass' Circle Problem*  
