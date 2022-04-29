@@ -101,10 +101,10 @@ analytics:
 author:
   name             : "Komal Agrawal"
   avatar           : "/assets/images/KomalPhoto.jpeg"
-  bio              : "I am a math graduate student at the University of Georgia."
+  bio              : "Currently looking for industry jobs."
   location         :
   pronoun          : she/her/hers
-  email            : "kpa43240@uga.edu"
+  email            : "komalagrawaluga@gmail.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
@@ -132,7 +132,7 @@ author:
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
   affiliation      : "University of Georgia"
   affiliationurl   : "http://www.math.uga.edu/"
-  worklocation     : "Boyd 434J"
+  worklocation     : "Bengalurur"
   workmap          : "https://goo.gl/pioTxT"
 
 # Reading Files
