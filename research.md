@@ -3,7 +3,7 @@ layout: single
 title: Research
 ---
 I am interested in Analytic Number Theory. Particularly, my thesis focused on the arithmetic of certain recurring sequences like the $a^n-1$ sequence, the Fibonacci sequence, and more general Lucas sequence. The first section of my theis is inspired by Artin's primitive root conjecture and proved that if $a,b$ are multiplicatively independent, then for almost all prime numbers $p$, one of $a,b,ab, a^2b, ab^2$ has order exceeding $p^{\frac{8}{15}+ \epsilon(p)}$. It also proved that for infinitely many primes $p$, the order of the Fibonacci Sequence is as large as possible.
-In the second section I prove the existence and continuity of the distribution functions of the density of normal and primitive elements in a finite field and the reciprocal sum of divisors of Lucas sequences. . <br/>
+In the second section I prove the existence and continuity of the distribution functions of the density of normal and primitive elements in a finite field and the reciprocal sum of divisors of Lucas sequences.  <br/>
 
 
 
@@ -12,7 +12,7 @@ In the second section I prove the existence and continuity of the distribution f
    <a href="https://arxiv.org/abs/2006.15200" target="_blank">J. Number Theory 225 (2021), 360--373</a>
 
 ## Talks
-0. *On Some Problems Concerning Integer Recurring Sequences”*  
+0. *On Some Problems Concerning Integer Recurring Sequences*  
     Thesis Defense  <br/>
 	University of Georgia, Athens, GA, March 2022
 1. *An Intorduction to the Erdős Multiplication Table Problem*  
