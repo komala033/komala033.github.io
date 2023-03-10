@@ -102,7 +102,7 @@ author:
   name             : "Komal Agrawal"
   avatar           : "/assets/images/KomalPhoto.jpeg"
   bio              : "Data Scientist"
-  location         : Bengaluru
+  location         : #Bengaluru
   pronoun          : she/her/hers
   email            : "komalagrawaluga@gmail.com"
   uri              :
