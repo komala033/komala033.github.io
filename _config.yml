@@ -101,8 +101,8 @@ analytics:
 author:
   name             : "Komal Agrawal"
   avatar           : "/assets/images/KomalPhoto.jpeg"
-  bio              : "Currently looking for industry jobs."
-  location         :
+  bio              : "Data Scientist"
+  location         : Bengaluru
   pronoun          : she/her/hers
   email            : "komalagrawaluga@gmail.com"
   uri              :
@@ -130,10 +130,10 @@ author:
   weibo            :
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
-  affiliation      : "University of Georgia"
-  affiliationurl   : "http://www.math.uga.edu/"
-  worklocation     : "India"
-  workmap          : "https://goo.gl/pioTxT"
+  affiliation      : "General Aeronautics Pct Ltd"
+  affiliationurl   : "https://generalaeronautics.com/"
+  worklocation     : "Bengaluru, India"
+  workmap          : "https://goo.gl/maps/ukheLLAhiEgurejM9"
 
 # Reading Files
 include:
