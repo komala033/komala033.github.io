@@ -119,7 +119,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "komal-agrawal-9aaa12177"{:target="_blank"}
+  linkedin         : "komal-agrawal-9aaa12177"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
@@ -131,9 +131,9 @@ author:
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
   affiliation      : "Chubb Insurance"
-  affiliationurl   : "https://www.chubb.com/us-en/"{:target="_blank"}
+  affiliationurl   : "https://www.chubb.com/us-en/"
   worklocation     : "Bengaluru, India"
-  workmap          : "https://maps.app.goo.gl/mZoH6MNsNmeJPebP8"{:target="_blank"}
+  workmap          : "https://maps.app.goo.gl/mZoH6MNsNmeJPebP8"
 
 # Reading Files
 include:
